@@ -2,7 +2,6 @@
 - 👀 I'm interested in programming
 - 🌱 I'm currently studying at school and learning Python
 - 💞️ I don't plan to collaborate with anyone yet
-- 📫 How to contact me, here's my username on telegram @kissellqq_w
 - ⚡ Fun fact: I'm 14 and I'm Russian
 
 
