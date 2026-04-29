@@ -1,8 +1,6 @@
-- 👋 Hi, I'm @Kissell959.
-- 👀 I'm interested in programming
-- 🌱 I'm currently studying at school and learning Python
-- 💞️ I don't plan to collaborate with anyone yet
-- ⚡ Fun fact: I'm 14 and I'm Russian
+Hello. I'm KIssell, I write in Golang and Python. 
+I plan to learn languages like Rust. 
+My bio: https://guns.lol/kissell
 
 
 <!---
