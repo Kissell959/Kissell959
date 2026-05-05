@@ -1,6 +1,4 @@
-Hello. I'm KIssell, I write in Golang and Python. 
-I plan to learn languages like Rust. 
-My bio: https://guns.lol/kissell
+ My bio: https://guns.lol/kissell
 
 
 <!---
